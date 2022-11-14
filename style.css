@@ -1,0 +1,23 @@
+body{
+    background-image: url(./images/image1.jpg);
+}
+.left{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+}
+header{
+    color: white;
+    display:flex;
+    width: 100%;
+}
+.right{
+    margin-left:950px;
+    padding: 10px;
+}
+.wrapper{
+    text-align: center;
+    color: white;
+    margin-top: 16%;
+    font-size: 30px;
+}
